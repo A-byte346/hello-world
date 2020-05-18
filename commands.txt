@@ -17,6 +17,7 @@ ls :- to list the files in the current directory
 git log :- to check the commits
 git difftool HEAD :- shows the difference between your new and previous version of the file
 touch filename :- to create a new file using bash
+git rm filename :- to delete a file
 
 BRANCH COMMANDS :
 git branch :- list all the branches
